@@ -23,10 +23,7 @@
         </activity>
 
         <activity android:name=".FabActivity"></activity>
-
         <activity android:name=".ButtonsActivity" > </activity>
 
     </application>
-
 </manifest>
-
