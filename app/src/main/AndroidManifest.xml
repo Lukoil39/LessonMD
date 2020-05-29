@@ -18,18 +18,12 @@
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <activity android:name=".FabActivity">
+        <activity android:name=".FabActivity"></activity>
+        <activity android:name=".ButtonsActivity" > </activity>
 
-        </activity>
-        <activity android:name=".ButtonsActivity" >
-
-        </activity>
     </application>
-
 </manifest>
-
